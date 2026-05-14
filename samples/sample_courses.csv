@@ -1,0 +1,6 @@
+course_id,course_name,group_id,teacher,room,credit,students
+MATH1_A,수학I-A,MATH1,김교사,301,3,"2026001,2026002,2026003"
+MATH1_B,수학I-B,MATH1,박교사,302,3,"2026004,2026005"
+ENG1_A,영어I-A,ENG1,이교사,201,3,"2026001,2026005"
+SCI1_A,통합과학-A,SCI1,최교사,401,3,"2026002,2026006"
+HIST1_A,한국사-A,HIST1,정교사,101,2,"2026003,2026004"
